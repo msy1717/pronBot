@@ -1,8 +1,8 @@
 {
-    "token" : "YOUR BOT TOKEN",
-    "admins" : ["ADMIN USERNAMES (ARRAY)"],
-    "intro" : "YOUR INTRO HERE",
-    "botname" :"YOUR BOT NAME HERE",
-    "signup" : SIGNUP BONUS (NUMBER),
-    "ref" : REFERRAL BONUS (NUMBER)
+    "token" : "5006517849:AAE6ySviKReO-NaR55IEDmbCF-WxxDf_4Dc",
+    "admins" : ["2039640400"],
+    "intro" : "Helllo Gey sir",
+    "botname" :"@Beastxassbot",
+    "signup" : 50,
+    "ref" : 10
 }
